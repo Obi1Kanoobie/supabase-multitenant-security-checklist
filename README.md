@@ -350,7 +350,7 @@ Found a pattern that belongs here, or a query that is wrong? Open an issue or a 
 
 I do fixed-price security reviews of multi-tenant Supabase applications — RLS and tenant isolation, storage, Edge Functions, key handling — and deliver a written report with reproduction steps and an estimate of the work to fix each finding. Written and asynchronous; no calls required.
 
-If you shipped fast and want to know what you shipped, get in touch: **[your email]** · [dev.to/obi1kanoobie](https://dev.to/obi1kanoobie)
+If you shipped fast and want to know what you shipped, get in touch: **[tele@duck.com]** · [dev.to/obi1kanoobie](https://dev.to/obi1kanoobie)
 
 ---
 
